@@ -110,19 +110,19 @@
         {
           "id": 1,
           "description": "Monthly Charge",
-          "amount": "25.00",
+          "amount": 25,
           "date": "25-10-2023"
         },
         {
           "id": 2,
           "description": "Maintenance Fee",
-          "amount": "10.0",
+          "amount": 10,
           "date": "24-10-2023"
         },
         {
           "id": 3,
           "description": "Payment Fee",
-          "amount": "5.00",
+          "amount": 5,
           "date": "20-10-2023"
         }
       ],
@@ -217,21 +217,21 @@
         {
           "id": 1,
           "title": "Farming Loan",
-          "amount": "2,500,000",
+          "amount": 2500000,
           "status": "approved",
           "date": "25-10-2023"
         },
         {
           "id": 2,
           "title": "College Loan",
-          "amount": "2,000,000",
+          "amount": 2000000,
           "status": "rejected",
           "date": "24-10-2023"
         },
         {
           "id": 3,
           "title": "Parents Housing Loan",
-          "amount": "4,500,000",
+          "amount": 4500000,
           "status": "review",
           "date": "20-10-2023"
         }
@@ -240,19 +240,19 @@
         {
           "id": 1,
           "description": "Monthly Charge",
-          "amount": "25.00",
+          "amount": 25,
           "date": "25-10-2023"
         },
         {
           "id": 2,
           "description": "Maintenance Fee",
-          "amount": "10.0",
+          "amount": 10,
           "date": "24-10-2023"
         },
         {
           "id": 3,
           "description": "Payment Fee",
-          "amount": "5.00",
+          "amount": 5,
           "date": "20-10-2023"
         }
       ],
@@ -347,21 +347,21 @@
         {
           "id": 1,
           "title": "Farming Loan",
-          "amount": "2,500,000",
+          "amount": 2500000,
           "status": "approved",
           "date": "25-10-2023"
         },
         {
           "id": 2,
           "title": "College Loan",
-          "amount": "2,000,000",
+          "amount": 2000000,
           "status": "rejected",
           "date": "24-10-2023"
         },
         {
           "id": 3,
           "title": "Parents Housing Loan",
-          "amount": "4,500,000",
+          "amount": 4500000,
           "status": "review",
           "date": "20-10-2023"
         }
@@ -370,19 +370,19 @@
         {
           "id": 1,
           "description": "Monthly Charge",
-          "amount": "25.00",
+          "amount": 25,
           "date": "25-10-2023"
         },
         {
           "id": 2,
           "description": "Maintenance Fee",
-          "amount": "10.0",
+          "amount": 10,
           "date": "24-10-2023"
         },
         {
           "id": 3,
           "description": "Payment Fee",
-          "amount": "5.00",
+          "amount": 5,
           "date": "20-10-2023"
         }
       ],

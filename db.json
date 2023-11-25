@@ -208,7 +208,7 @@
         {
           "id": 3,
           "title": "Savings For Rent",
-          "amount": 1000,
+          "amount": 1200,
           "savings_type": "daily",
           "date": "25-10-2023"
         }
@@ -338,7 +338,7 @@
         {
           "id": 3,
           "title": "Savings For Rent",
-          "amount": 1000,
+          "amount": 4000,
           "savings_type": "daily",
           "date": "25-10-2023"
         }
